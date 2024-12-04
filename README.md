@@ -1,4 +1,4 @@
-# Guía para Ejecutar el Servidor SOAP y Realizar Pruebas
+# Guía para Ejecutar el Servidor RPC y Realizar Pruebas
 
 ## Requisitos Previos
 para de comenzar, asegurarnos de tener con los siguientes requisitos:
